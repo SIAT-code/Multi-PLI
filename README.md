@@ -27,3 +27,6 @@ To train a multi-task model, use the multi-task_training_reaspective.py script. 
 ```
   usage: multi-task_training_reaspective.py class_train_file class_valid_file reg_train_file reg_valid_file model_name
 ```
+
+## Use agreement
+The SOFTWARE will be used for teaching or not-for-profit research purposes only. Permission is required for any commerical use of the Software.
